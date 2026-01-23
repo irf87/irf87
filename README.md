@@ -1,6 +1,6 @@
 # Hello, I'm Iván (irf87) 👨‍💻
 
-I am a Web Developer with 8 years of experience, specializing in building scalable, reliable, and maintainable web systems. My approach emphasizes best practices, including SOLID principles, and I continuously explore architectures that best fit each solution.
+I am a Web Developer with 9 years of experience, specializing in building scalable, reliable, and maintainable web systems. My approach emphasizes best practices, including SOLID principles, and I continuously explore architectures that best fit each solution.
 
 Throughout my career, I've contributed to a diverse range of projects—from real-time systems and interactive maps to educational platforms and e-commerce solutions—where reliability is paramount.
 
