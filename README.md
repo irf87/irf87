@@ -26,6 +26,7 @@ Cross-platform interface for `prices-scraper` with a focus on offline-first UX.
 
 ### 🩺 [DATEMApp](https://datem.app/en/) — Local-First Health Platform
 Zero-backend clinical health management application.
+* **Mobile app developed integrating multiple agents and models:** Token consumption and software performance were optimized by implementing SPEC-Driven Development, mitigating context waste in prompts using different AI models, and improving the final result.
 * **Distributed State Architecture:** Implements a client-side transaction ledger using an *append-only JSON* model.
 * **Synchronization:** Employs Optimistic Concurrency Control (OCC) matched with native cloud revision tracking to handle distributed race conditions.
 * **Conflict Resolution:** Last-Write-Wins (LWW) engine with ID-mapping safeguards for offline record creation.
